@@ -4,6 +4,6 @@ public class HelloWorld
 {
 	public static void main(String[] args)
 	{
-		System.out.println("Hello world!  It's Tuesday evening, really!");
+		System.out.println("Hello world!  It's Monday morning, really!");
 	}
 }
